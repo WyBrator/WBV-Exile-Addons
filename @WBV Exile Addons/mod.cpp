@@ -1,0 +1,12 @@
+name = "WBV Exile Addons";
+picture = "logo.paa";
+description = "WBV Exile Addons";
+logo = "logo.paa";
+logoOver = "logo.paa";
+tooltip = "WBV Exile Addons";
+tooltipOwned = "WBV Exile Addons Owned";
+overview = "WBV Exile Addons";
+author = "|WBV| Wybrator *RSA*";
+overviewPicture = "logo.paa";
+overviewText = "WBV Exile Addons";
+overviewFootnote = "";
